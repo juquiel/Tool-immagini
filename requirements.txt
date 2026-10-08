@@ -1,0 +1,5 @@
+Pillow
+customtkinter
+requests
+keyring
+pyinstaller
